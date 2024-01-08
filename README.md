@@ -1,13 +1,8 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naaeell&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=naaeell&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naaeell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br clear="both">
 
----
-[![](https://visitcount.itsvg.in/api?id=naaeell&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=naaeell&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naaeell&radius=12&theme=redical&area=false&order=5&hide_border=false&hide_title=false" height="130" alt="activity-graph graph"  />
+</div>
 
-  ## support me!
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/naaeell) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
